@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teste/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/teste/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+aja
